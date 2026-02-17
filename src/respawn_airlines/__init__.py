@@ -4,7 +4,6 @@ def main() -> None:
     pygame.init()
     #inizializza i moduli pygame
   
-    
     SCREEN_WIDTH = 1600
     SCREEN_HEIGHT = 896
 
