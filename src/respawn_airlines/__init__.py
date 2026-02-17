@@ -35,7 +35,7 @@ def main() -> None:
             # quando clicchi SOPRA il pulsante... FAI QUALCOSA!!!
 #             if not game_started:
 #                 if event.type == pygame.MOUSEBUTTONDOWN:
-#                     if buttonRect.collidepoint(mPos):          #C'è DA SISTEMARLO IL PULSANTE
+#                     if buttonRect.collidepoint(mPos):          #C'E' DA SISTEMARLO IL PULSANTE
 #                         game_started = True
 
         
